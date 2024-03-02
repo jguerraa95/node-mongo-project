@@ -1,0 +1,7 @@
+MONGO:
+
+jguerraa95-mongo
+CzfALmUmvlaFQjd0
+
+
+DB URI = mongodb+srv://jguerraa95-mongo:CzfALmUmvlaFQjd0@cluster0.y91zcf8.mongodb.net/dbapi?retryWrites=true&w=majority&appName=Cluster0
